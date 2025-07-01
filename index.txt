@@ -25,7 +25,7 @@
 <body>
 
   <video controls playsinline webkit-playsinline>
-    <source src="https://drive.google.com/uc?id=1HJC63XdH6mTknANEVRx0wqZUkknCyuFZ" type="video/mp4">
+    <source src="https://drive.google.com/file/d/1HJC63XdH6mTknANEVRx0wqZUkknCyuFZ/preview" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
